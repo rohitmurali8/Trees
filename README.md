@@ -6,6 +6,7 @@ and Graphs. The following code files are related to it:
 - Valid_BST.cpp
 - Successor.cpp
 - Common_Ancestor.cpp
+- SubTree.cpp
 
 The rest of the files are my additional solution implementation to the other operations related to Binary Trees.
 
